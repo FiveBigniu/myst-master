@@ -1,0 +1,5 @@
+[ 2018-03-07T00:13:43+08:00 ] ::1 /myst/home/user/model
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+
