@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40ace91d-9917-446c-b34c-4c8851034ee1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/myst/Home/Model/UserModel.class.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/myst/Home/Conf/config.php" afterPath="$PROJECT_DIR$/myst/Home/Conf/config.php" />
-      <change beforePath="$PROJECT_DIR$/myst/Home/Controller/UserController.class.php" afterPath="$PROJECT_DIR$/myst/Home/Controller/UserController.class.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -107,7 +104,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="300" />
+    <option name="x" value="1020" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -216,15 +213,15 @@
       <updated>1520173802289</updated>
       <workItem from="1520173804796" duration="3957000" />
       <workItem from="1520182104003" duration="169000" />
-      <workItem from="1520346357236" duration="3679000" />
+      <workItem from="1520346357236" duration="3921000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7805000" />
+    <option name="totallyTimeSpent" value="8047000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="300" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="1020" y="0" width="974" height="1047" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17849687" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
