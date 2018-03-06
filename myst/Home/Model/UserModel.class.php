@@ -9,6 +9,7 @@ namespace Home\Model;
 use Think\Model;
 
 class UserModel extends Model{
+    //修改表名 前缀 后缀等
 //    protected $tablePrefix = 'tp_';
 //    protected $tableName = 'abc';
 //    protected $trueTableName = 'tp_abc';
